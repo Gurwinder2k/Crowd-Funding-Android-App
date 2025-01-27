@@ -15,3 +15,10 @@ This project was developed as part of my university coursework at Birmingham Cit
 - Android Studio
 - Firebase
 - Java
+
+
+## Screenshots
+![App Screenshot 1](images/homeScreenScreenshot.png)
+![App Screenshot 2](images/loginScreenshot.png)
+![App Screenshot 3](images/postScreenshot.png)
+
