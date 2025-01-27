@@ -18,7 +18,8 @@ This project was developed as part of my university coursework at Birmingham Cit
 
 
 ## Screenshots
-![App Screenshot 1](images/homeScreenScreenshot.png)
-![App Screenshot 2](images/loginScreenshot.png)
-![App Screenshot 3](images/postScreenshot.png)
+<img src="images/homeScreenScreenshot.png" alt="App Screenshot 1" width="230" height="500"/>
+<img src="images/loginScreenshot.png" alt="App Screenshot 2" width="230" height="500"/>
+<img src="images/postScreenshot.png" alt="App Screenshot 3" width="230" height="500"/>
+
 
