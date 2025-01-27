@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/search_btn"
+        android:title="rewards"
+        android:icon="@drawable/baseline_search_24" />
+    <item
+        android:id="@+id/given_donations_btn"
+        android:title="donations_given"
+        android:icon="@drawable/baseline_currency_pound_24"/>
+
+    <item
+        android:id="@+id/received_donation_btn"
+        android:title="donations_received"
+        android:icon="@drawable/baseline_mail_24" />
+
+    <item
+        android:id="@+id/rewards_btn"
+        android:title="rewards"
+        android:icon="@drawable/baseline_star_rate_24" />
+</menu>
